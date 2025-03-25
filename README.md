@@ -10,7 +10,7 @@ This is a **React Native Currency Converter App** that allows users to convert c
 - 📱 Simple and responsive UI
 
 ## 🚀 Technologies Used
-- **React Native**
+- **React Native** (Expo)
 - **Axios** (for API calls)
 - **react-native-picker-select** (for currency selection)
 - **React Hooks** (useState, useEffect)
@@ -26,16 +26,13 @@ cd Currency-Converter-App
 ### 2️⃣ Install Dependencies
 ```bash
 npm install
+# OR
+yarn install
 ```
 
 ### 3️⃣ Run the App
-For Android:
 ```bash
-npx react-native run-android
-```
-For iOS (Mac users only):
-```bash
-npx react-native run-ios
+npx expo start
 ```
 
 ## 🔑 API Setup
