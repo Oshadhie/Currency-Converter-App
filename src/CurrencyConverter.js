@@ -164,12 +164,13 @@ const styles = StyleSheet.create({
         fontWeight: "bold",
     },
     themeButton: {
-        backgroundColor: "#ff9800",
+        backgroundColor: "#6200ea",
         padding: 10,
         borderRadius: 5,
         marginBottom: 100,
         marginLeft: 230,
         marginTop:20,
+        alignItems:"center"
     },
     result: {
         fontSize: 20,
