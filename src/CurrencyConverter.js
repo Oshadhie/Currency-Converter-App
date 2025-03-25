@@ -121,7 +121,7 @@ const styles = StyleSheet.create({
         backgroundColor: "#121212",
     },
     label: {
-        fontSize: 18,
+        fontSize: 20,
         marginBottom: 5,
         fontWeight: "bold",
     },
@@ -135,7 +135,7 @@ const styles = StyleSheet.create({
         height: 40,
         borderColor: "gray",
         borderWidth: 1,
-        width: 330,
+        width: 340,
         marginBottom: 20,
         paddingHorizontal: 10,
         borderRadius: 5,
